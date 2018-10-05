@@ -1,2 +1,7 @@
-hello world!
-This is a new file !
+<html>
+<head> </head>
+<body>
+<h1><b>hello world!</b></h1>
+<h2> This is a new file !</h2>
+</body>
+</html>
